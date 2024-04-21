@@ -1,0 +1,65 @@
+.titulo{
+    background-color: rgb(12, 61, 25);
+    color: rgb(255, 255, 255);
+    justify-content: center;
+    text-align: center;
+    width: 100%;
+}
+
+.deputado,
+.vereador,
+.presidente{
+    color: aliceblue;
+    width: 240px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 15px;
+}
+
+
+body{
+    background-color: rgb(139, 158, 115);;  
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    overflow-x: hidden;
+    width: 100%;
+}
+
+
+
+.texto{
+    background-color: rgb(12, 61, 25) ;
+    color: aliceblue;
+    align-items: center;
+    text-align: center;
+    padding: 10px;
+    width: 100%;
+    font-size: x-large;
+    
+}
+
+.legenda{
+    color: aliceblue;
+    align-items: center;
+    text-align: center;
+    padding: 10px;
+    width: 95%;
+    font-size: x-large;
+   
+}
+
+.x{
+    color: aliceblue;
+}
+
+.legenda1{
+    color: aliceblue;
+    align-items: center;
+    text-align: center;
+    padding: 10px;
+    width: 95%;
+    
+}

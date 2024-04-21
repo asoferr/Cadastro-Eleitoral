@@ -1,0 +1,29 @@
+a {
+    text-decoration: underline;
+    color: #f3f0f0;
+    
+}
+
+body{
+    background-image: url(pexels-marcello-sokal-9216186.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    align-items: center;
+    justify-content: center;
+   
+}
+
+.titulo {
+    background-color: rgb(12, 61, 25);
+    color: aliceblue;
+    text-align: center;
+    justify-content: center;
+}
+
+.titulo2,
+.titulo3,
+.titulo4 {
+    color: #f3f0f0;
+    text-align: center;
+    
+}
